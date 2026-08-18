@@ -19,7 +19,7 @@
 ###
 
 <p align="left">Opa!<br><br>Sou aluno da UniFio, estou cursando Engenharia de Software. Sou técnico em Desenvolvimento de Sistemas formado pela ETEC (2025), busco me profissionalizar na area de Tecnologia da Informação (TI) e aprender cada vez mais e por em prática no meu trabalho!<br><br>Nesse perfil, vou compartilhar todo os projetos que eu realizar por curso ou conta própria a fim de registrar minha evolução no mundo da tecnologia.<br><br>Estou atualmente focando na linguagem Java e suas aplicações para aprimorar meus conhecimentos!!! 👾</p>
-Email de contato: pedroromao4339@gmai.com
+Email de contato: pedroromao4339@gmai.com <br>
 Instagram: @romaoph
 
 ###
