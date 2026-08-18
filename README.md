@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/c2/dc/d7/c2dcd731de3025581ca68d4808b16b34.jpg"  />
+
 
 ###
 
