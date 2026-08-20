@@ -14,11 +14,11 @@
 
 ###
 
-<h3 align="left">Técnico em Desenvolvimento de Sistemas - ETEC (Finalizado)<br>Engenharia de Software - UniFio (Cursando)</h3>
+<h3 align="left">Técnico em Desenvolvimento de Sistemas - ETEC (Finalizado)<br>Engenharia de Software - UniFio (Cursando)<br> Estudante de Java</h3>
 
 ###
 
-<p align="left">Opa!<br><br>Sou aluno da UniFio, estou cursando Engenharia de Software. Sou técnico em Desenvolvimento de Sistemas formado pela ETEC (2025), busco me profissionalizar na area de Tecnologia da Informação (TI) e aprender cada vez mais e por em prática no meu trabalho!<br><br>Nesse perfil, vou compartilhar todo os projetos que eu realizar por curso ou conta própria a fim de registrar minha evolução no mundo da tecnologia.<br><br>Estou atualmente focando na linguagem Java e suas aplicações para aprimorar meus conhecimentos!!! 👾</p>
+<p align="left">Sou aluno da UniFio, estou cursando Engenharia de Software. Sou técnico em Desenvolvimento de Sistemas formado pela ETEC (2025), busco me profissionalizar na area de Tecnologia da Informação (TI) e aprender cada vez mais e por em prática no meu trabalho!<br><br>"Neste perfil, compartilho minha evolução em desenvolvimento de software, projetos acadêmicos e projetos pessoais. Atualmente, meu foco é desenvolvimento Backend com Java, aprofundando meus conhecimentos em POO, APIs REST, Spring Boot e bancos de dados." </p>
 Email de contato: pedroromao4339@gmail.com <br>
 Instagram: @romaoph
 
