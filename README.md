@@ -1,51 +1,114 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-romao/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
-  </a>
-  
 
-###
+# 👋 Olá! Eu sou Pedro Henrique Romão Gama
 
-<h1 align="center">Pedro Henrique Romão Gama</h1>
+### ☕ Desenvolvedor Backend Java em formação | Estudante de Engenharia de Software
 
-###
+</div>
 
+---
 
+### 📫 Connect with Me:
 
-###
+<a href="https://www.linkedin.com/in/pedro-henrique-romao/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:pedroromao4339@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/romaoph" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<h3 align="left">Técnico em Desenvolvimento de Sistemas - ETEC (Finalizado)<br>Engenharia de Software - UniFio (Cursando)<br> Estudante de Java</h3>
+---
 
-###
+### 👨‍💻 About Me:
 
-<p align="left">Sou aluno da UniFio, estou cursando Engenharia de Software. Sou técnico em Desenvolvimento de Sistemas formado pela ETEC (2025), busco me profissionalizar na area de Tecnologia da Informação (TI) e aprender cada vez mais e por em prática no meu trabalho!<br><br>"Neste perfil, compartilho minha evolução em desenvolvimento de software, projetos acadêmicos e projetos pessoais. Atualmente, meu foco é desenvolvimento Backend com Java, aprofundando meus conhecimentos em POO, APIs REST, Spring Boot e bancos de dados." </p>
-Email de contato: pedroromao4339@gmail.com <br>
-Instagram: @romaoph
+🎓 Estudante de **Engenharia de Software na UniFio**
+💻 Técnico em **Desenvolvimento de Sistemas pela ETEC (2025)**
 
-###
+Atualmente estou focado em **Java**, construindo minha base em programação e desenvolvendo minha lógica através de exercícios e projetos práticos.
 
-<h3 align="left">Breves conhecimentos</h3>
+Utilizo este perfil para registrar minha evolução e compartilhar projetos acadêmicos e pessoais.
 
-###
+---
+
+### 🎯 What I'm Working On:
+
+* ☕ Aprendendo e praticando **Java**
+* 🧠 Desenvolvendo minha **lógica de programação**
+* 🔀 Estudando **estruturas condicionais**
+* 🔄 Praticando **estruturas de repetição**
+* 🚀 Construindo minha base para atuar com **Backend Java**
+
+---
+
+### 🛣️ Minha Jornada:
+
+```text
+☕ Java
+   ↓
+🧱 POO
+   ↓
+📦 Collections
+   ↓
+⚠️ Exceptions
+   ↓
+🗄️ SQL
+   ↓
+🌱 Spring Boot
+   ↓
+🌐 APIs REST
+   ↓
+🔗 JPA / Hibernate
+   ↓
+🐘 PostgreSQL
+   ↓
+🚀 Projetos Backend
+```
+
+---
+
+### 🛠️ Tech Stack & Tools:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ IDEA" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="Visual Studio Code" />
+
 </div>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+### 📂 Projects:
+
+#### ☕ Java — Exercícios
+
+Exercícios desenvolvidos durante meus estudos de Java, organizados para acompanhar minha evolução na linguagem.
+
+<a href="https://github.com/romaoph/java-exercicios" target="_blank">
+  <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Java Exercícios" />
+</a>
+
+---
+
+### 🎯 Goal:
+
+Construir uma base sólida em programação e evoluir profissionalmente como **Desenvolvedor Backend Java**.
+
+<div align="center">
+
+### 🚀 Aprendendo • Praticando • Evoluindo
+
 </div>
-
-###
