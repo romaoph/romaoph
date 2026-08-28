@@ -97,8 +97,8 @@ Utilizo este perfil para registrar minha evolução e compartilhar projetos acad
 
 Exercícios desenvolvidos durante meus estudos de Java, organizados para acompanhar minha evolução na linguagem.
 
-<a href="https://github.com/romaoph/ListaJavaFaculdade" target="_blank">
-  <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Java Exercícios" />
+<a href="https://github.com/romaoph/estudos-externos" target="_blank">
+  <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Java - Estudos externos" />
 </a>
 
 ---
